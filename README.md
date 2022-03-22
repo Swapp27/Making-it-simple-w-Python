@@ -1,4 +1,4 @@
-# Making it Simple with Python
+# Making it Simple with Python g
   Using Python to make tasks easier.
   
 ### Be_Back_QR
